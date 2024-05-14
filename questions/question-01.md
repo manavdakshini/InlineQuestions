@@ -5,7 +5,10 @@ Question Type : Single Choice
 What is the primary function of Microsoft Hyper-V?
 
 ## Options
-Option 1 : Data Analysis Option 2 : Web Hosting Option 3 : Virtualization Option 4 : Network Security
+Option 1 : Data Analysis  
+Option 2 : Web Hosting  
+Option 3 : Virtualization 
+Option 4 : Network Security
 
 ## Answers
 Option 3 : 1

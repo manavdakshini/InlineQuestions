@@ -5,7 +5,10 @@ Question Type : Single Choice
 What type of hypervisor is Hyper-V classified as?
 
 ## Options
-Option 1 : Type 1 Option 2 : Type 2 Option 3 : Type 3 Option 4 : None of the above
+Option 1 : Type 1 
+Option 2 : Type 2 
+Option 3 : Type 3 
+Option 4 : None of the above
 
 ## Answers
 Option 1 : 1

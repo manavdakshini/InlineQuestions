@@ -5,7 +5,10 @@ Question Type : Single Choice
 Which of the following Windows versions supports installing Hyper-V?
 
 ## Options
-Option 1 : Windows 10 Home Option 2 : Windows 10 Professional Option 3 : Windows 8.1 Option 4 : Windows 7 Ultimate
+Option 1 : Windows 10 Home 
+Option 2 : Windows 10 Professional 
+Option 3 : Windows 8.1 
+Option 4 : Windows 7 Ultimate
 
 ## Answers
 Option 2 : 1

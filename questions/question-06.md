@@ -5,7 +5,10 @@ Question Type : Single Choice
 Which Hyper-V feature provides fault tolerance and continuous availability for virtual machines?
 
 ## Options
-Option 1 : Failover Clustering Option 2 : Nested Virtualization Option 3 : Enhanced Session Mode Option 4 :  Dynamic Migration
+Option 1 : Failover Clustering 
+Option 2 : Nested Virtualization 
+Option 3 : Enhanced Session Mode 
+Option 4 :  Dynamic Migration
 
 ## Answers
 Option 1 : 1

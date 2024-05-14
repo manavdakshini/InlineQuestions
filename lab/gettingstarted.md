@@ -28,3 +28,4 @@ Live Migration is a feature in Hyper-V that enables you to move running virtual 
 
 Failover Clustering is a key feature in Hyper-V that enhances the reliability and availability of applications. It involves connecting multiple servers in a cluster, which can then provide high availability by automatically restarting applications on another node if one fails.
 
+<question source=".././questions/question-06.md" />

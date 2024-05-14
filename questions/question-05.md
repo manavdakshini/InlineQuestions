@@ -5,7 +5,10 @@ Question Type : Single Choice
 Which feature of Hyper-V allows for the migration of a running VM from one host to another without downtime?
 
 ## Options
-Option 1 : Quick Migration Option 2 : Live Migration Option 3 : Storage Migration Option 4 :  Dynamic Migration
+Option 1 : Quick Migration 
+Option 2 : Live Migration 
+Option 3 : Storage Migration 
+Option 4 :  Dynamic Migration
 
 ## Answers
 Option 2 : 1

@@ -5,7 +5,10 @@ Question Type : Single Choice
 Hyper-V virtual switches can be categorized into how many types?
 
 ## Options
-Option 1 : One Option 2 : Two Option 3 : Three Option 4 : Four
+Option 1 : One 
+Option 2 : Two 
+Option 3 : Three 
+Option 4 : Four
 
 ## Answers
 Option 3 : 1
