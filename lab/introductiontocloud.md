@@ -32,3 +32,7 @@ Cloud computing offers several advantages, including:
 * Accessibility: Cloud services can be accessed from anywhere with an internet connection, enabling remote work and collaboration.
 
 * Reliability: Cloud providers offer high availability and redundancy, reducing the risk of downtime and data loss.
+
+<question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/questions/question-07.md" />
+
+<question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/questions/question-08.md" />
