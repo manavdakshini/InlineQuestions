@@ -1,5 +1,5 @@
 ## Metadata
-Question Type : Multi Choice
+Question Type : Multiple Choice
 
 ## Question
 Which of the following are benefits of cloud computing?
