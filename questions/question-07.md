@@ -2,7 +2,7 @@
 Question Type : Multiple Choice
 
 ## Question
-Which of the following are deployment models in cloud computing?
+Which of the following are deployment models in cloud computing? (Choose two)
 
 ## Options
 Option 1 : Public Cloud 

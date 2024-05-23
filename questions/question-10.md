@@ -2,7 +2,7 @@
 Question Type : Multiple Choice
 
 ## Question
-Which of the following are benefits of cloud computing? (Choose two)
+Which of the following are features of Microsoft Azure? (Choose two)
 
 ## Options
 Option 1 : Scalability
