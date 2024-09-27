@@ -20,3 +20,5 @@
   - AWS: `us-east-1` region has six Az like `us-east-1a`, `us-east-1b`, `us-east-1c`, `us-east-1d`, `us-east-1e`, `us-east-1f`.
 
 In summary, **Regions** are larger geographic areas containing multiple **Availability Zones**, which are independent data centers designed to ensure high availability and resilience.
+
+<question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/questions/question-12.md" />
