@@ -10,7 +10,7 @@ Option 2 : Databricks default deployment
 Option 3 : NPIP Deployment type
 
 ## Answers
-Option 3 : 1
+Option 1 : 1
 
 ## Correct Answer Feedback
 You have given a correct Answer.
