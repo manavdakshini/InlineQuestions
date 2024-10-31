@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Inline Questions",
+        "Language": "English",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/lab/databricks101.md",
+                "Order": 1
+            }
+        ]
+    }
+]
