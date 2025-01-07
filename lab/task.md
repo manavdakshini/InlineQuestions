@@ -4,8 +4,8 @@
 
 2. Log in to the **Azure Portal** using the credentials provided:
 
-   - **Email:**  
-   - **Password:**  
+   - **Email:** **<inject key="AzureAdUserEmail"></inject>**
+   - **Password:** **<inject key="AzureAdUserPassword"></inject>**
 
 3. In the Azure Portal, select **Virtual Machines** under **Azure Services**.
 
