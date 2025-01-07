@@ -18,6 +18,10 @@
             {
                 "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/lab/fundamentals.md",
                 "Order": 4
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/lab/task.md",
+                "Order": 5
             }
         ]
     }
