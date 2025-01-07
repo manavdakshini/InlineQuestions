@@ -30,3 +30,6 @@
 
 8. Once the virtual machine is created click on submit button for below validation to verify that you have successfully completed the task.
 
+# Validation 1: Create the virtual machine
+
+<validation step="11ea4ebd-6966-4f62-82a3-86834ea408f6" />
