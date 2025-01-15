@@ -9,5 +9,5 @@ Create a EC2 Instance with name **dbinstance**.
 
 ## Answer the below question
 
-<question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/refs/heads/main/questions/databricks/question-01.md" />
+<question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/questions/databricks/question-01.md" />
 
