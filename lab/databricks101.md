@@ -1,4 +1,4 @@
-# Getting Started With the Lab
+# Getting Started With Lab
 <br>
 
 ## Task 1: 
