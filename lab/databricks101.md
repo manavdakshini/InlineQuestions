@@ -1,4 +1,4 @@
-# Getting Started With Cluster Creation Lab
+# Getting Started With the Lab
 <br>
 
 ## Task 1: 
