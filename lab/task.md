@@ -2,16 +2,28 @@
 
 1. Click on **Azure Portal** available on the virtual machine desktop for logging in to Azure.
 
-3. Log in to the **Azure Portal** using the credentials provided:
+   ![](./images/azureportal.png)
+
+1. Log in to the **Azure Portal** using the credentials provided:
 
    - **Email:** **<inject key="AzureAdUserEmail"></inject>**
    - **Password:** **<inject key="AzureAdUserPassword"></inject>**
 
+     ![](./images/login.png)
+
+     ![](./images/login1.png)
+
+1. If you are prompted with **Stay signed in?** pop up then click on **No**.
+
+   ![](./images/login2.png)
+
 4. In the Azure Portal, select **Virtual Machines** under **Azure Services**.
 
-5. Click **Create** and select **Azure Virtual Machine**.
+   ![](./images/vm.png)
+   
+6. Click **Create** and select **Azure Virtual Machine**.
 
-6. In the **Basics** tab, provide the following details:
+7. In the **Basics** tab, provide the following details:
 
    - **Subscription**: Choose **Default**.  
    - **Resource group**: Select the resource group named **ODL-Test-Spektra-02**.  
@@ -24,11 +36,11 @@
    - **Username**: Enter **labuser**.  
    - **Password**: Enter **Password.1!!**.  
 
-7. Leave all other fields as **Default** and click **Review + create**.
+8. Leave all other fields as **Default** and click **Review + create**.
 
-8. Once the validation passes, click **Create**.
+9. Once the validation passes, click **Create**.
 
-9. Once the virtual machine is created click on submit button for below validation to verify that you have successfully completed the task.
+10. Once the virtual machine is created click on submit button for below validation to verify that you have successfully completed the task.
 
 # Validation 1: Create the virtual machine
 
