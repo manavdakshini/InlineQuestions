@@ -1,6 +1,4 @@
-# Sophos Demo
-
-<inline-video source="https://youtu.be/2ENjo835xcY"/>
+# Demo
 
 # Getting Started With Microsoft Hyper-V
 
