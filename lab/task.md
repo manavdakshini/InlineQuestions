@@ -26,9 +26,9 @@
 7. In the **Basics** tab, provide the following details:
 
    - **Subscription**: Choose **Default**.  
-   - **Resource group**: Select the resource group named **ODL-Test-Spektra-02**.  
+   - **Resource group**: Select the resource group named **ODL-Demo-<inject key="Deployment Id" enableCopy="false">-02**.  
    - **Virtual machine name**: Enter **labvm**.  
-   - **Region**: Choose **Central US**.  
+   - **Region**: Choose **west us 2**.  
    - **Availability options**: Select **No infrastructure redundancy required**.  
    - **Security type**: Select **Standard**.  
    - **Image**: Choose **Windows Server 2022 Datacenter** from the dropdown.  
@@ -38,7 +38,7 @@
 
 8. Leave all other fields as **Default** and click **Review + create**.
 
-9. Once the validation passes, click **Create**.
+9. Once the validation passes, click on **Create**.
 
 10. Once the virtual machine is created click on submit button for below validation to verify that you have successfully completed the task.
 
