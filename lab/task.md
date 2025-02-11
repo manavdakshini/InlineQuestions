@@ -32,4 +32,4 @@
 
 # Validation 1: Create the virtual machine
 
-<validation step="11ea4ebd-6966-4f62-82a3-86834ea408f6" />
+<validation step="ee2358a7-d01c-4324-935d-c23346546adb" />
