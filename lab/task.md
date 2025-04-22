@@ -44,4 +44,4 @@
 
 # Validation 1: Create the virtual machine
 
-<validation step="ee2358a7-d01c-4324-935d-c23346546adb" />
+<validation step="73f8cbf9-09fe-4b27-8951-ea93ee6f8e9a" />
