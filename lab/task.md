@@ -1,9 +1,5 @@
 # Task 1: Create a Virtual Machine
 
-1. On the virtual machine's desktop, click on Azure Portal icon to log in to Azure.
-   
-   ![](./images/azureportal.png)
-
 1. Log in to the **Azure Portal** using the credentials provided:
 
    - **Email:** **<inject key="AzureAdUserEmail"></inject>**
