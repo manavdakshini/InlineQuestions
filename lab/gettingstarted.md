@@ -1,5 +1,7 @@
 # Demo Environment
 
+<inline-video source="https://youtu.be/dJ5yLEoGXdE?si=901zxLfj28iYCs0e"/>
+
 # Getting Started With Microsoft Hyper-V
 
 ## Overview
