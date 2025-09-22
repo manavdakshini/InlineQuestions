@@ -11,3 +11,10 @@ Create an EC2 Instance with name **dbinstance**.
 
 <question source="https://raw.githubusercontent.com/manavdakshini/InlineQuestions/main/questions/databricks/question-01.md" />
 
+$$
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{bmatrix}
+$$
